@@ -42,7 +42,7 @@ public class T {
 		
 		ScientistFileStructured.generateHtml(ListOfscientist.get(i));
 		
-		ScientistFileStructured.generateXML(ListOfscientist.get(i));
+		//ScientistFileStructured.generateXML(ListOfscientist.get(i));
 		
 		}
 		Date end = new Date();
