@@ -17,7 +17,10 @@ public class SqlConst {
     final public static String SQL_S002=new StringBuffer("")
 							.append("SELECT CXBZ,CXSM,COLOR,SIZE FROM CXINDEX").toString();
     final public static String SQL_S003=new StringBuffer("")
-							.append("SELECT * FROM SCIENTISTS").toString();
+							.append("SELECT * FROM scientists").toString();
+    
+  
+
 	
 	
 
