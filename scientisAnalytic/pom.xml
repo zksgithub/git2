@@ -21,10 +21,18 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
     <dependency>
     <groupId>com.hankcs</groupId>
     <artifactId>hanlp</artifactId>
     <version>portable-1.2.8</version>
-</dependency>
+	</dependency>
+	
+	<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>4.2.4.RELEASE</version>
+	</dependency>
   </dependencies>
+  
 </project>
