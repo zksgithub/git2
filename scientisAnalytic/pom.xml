@@ -22,12 +22,34 @@
       <scope>test</scope>
     </dependency>
     
+<<<<<<< Updated upstream
+=======
+    <!-- Hanlp 语言包 -->
+>>>>>>> Stashed changes
     <dependency>
     <groupId>com.hankcs</groupId>
     <artifactId>hanlp</artifactId>
     <version>portable-1.2.8</version>
 	</dependency>
 	
+<<<<<<< Updated upstream
+=======
+	<!-- mysql -->
+	<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>5.1.15</version>
+	</dependency>
+	
+	<!--c3p0 数据库连接池-->
+	<dependency>
+    <groupId>c3p0</groupId>
+    <artifactId>c3p0</artifactId>
+    <version>0.9.1.2</version>
+	</dependency>
+	
+	<!-- springframework -->
+>>>>>>> Stashed changes
 	<dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
